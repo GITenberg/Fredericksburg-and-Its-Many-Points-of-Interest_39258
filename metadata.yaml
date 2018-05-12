@@ -1,0 +1,27 @@
+_repo: Fredericksburg-and-Its-Many-Points-of-Interest_39258
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39258-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kishpaugh, Robert A.
+    alias: Kishpaugh, R. A. (Robert A.)
+    birthdate: 1878
+    gutenberg_agent_id: '39922'
+    url: http://www.gutenberg.org/2009/agents/39922
+description: ''
+gutenberg_issued: '2012-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39258'
+  lccn: '57050675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Fredericksburg (Va.) -- Guidebooks'
+title: Fredericksburg and Its Many Points of Interest
+url: http://www.gutenberg.org/ebooks/39258
