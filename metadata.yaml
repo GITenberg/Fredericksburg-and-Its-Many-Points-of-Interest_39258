@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39922'
     url: http://www.gutenberg.org/2009/agents/39922
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39258#Fredericksburg-and-Its-Many-Points-of-Interest
 gutenberg_issued: '2012-03-25'
 gutenberg_type: Text
 identifiers:
